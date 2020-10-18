@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "hass-brightsky-client"
+version = "0.1.0"
+description = ""
+authors = ["Martin Weinelt"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.24.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
