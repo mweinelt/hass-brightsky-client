@@ -3,8 +3,6 @@ import datetime
 import requests
 from urllib.parse import urljoin
 
-__VERSION__ = '0.1.0'
-
 _LOGGER = logging.getLogger(__name__)
 
 API_URL = "https://api.brightsky.dev"

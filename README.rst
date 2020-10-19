@@ -1,4 +1,4 @@
 hass-brightsky-client
 =====================
 
-Wrapping the API-specific parts of the brightsky component.
+Wrapping the API-specific parts of the brightsky component in Home-Assistant.
