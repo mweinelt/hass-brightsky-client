@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "hass-brightsky-client"
-version = "0.1.1"
+version = "0.1.2"
 description = "Wrapping the API-specific parts of the brightsky component for Home-Assistant"
 authors = ["Martin Weinelt"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.7"
 requests = "^2.24.0"
 
 [tool.poetry.dev-dependencies]
